@@ -2,6 +2,8 @@
 
 A full-stack web application to track personal expenses, categorize spending, and manage financial data efficiently.
 
+🚀 **Live Demo**: [https://financemanager-dxqr.onrender.com](https://financemanager-dxqr.onrender.com)
+
 ## 🚀 Features
 
 - User registration & authentication (JWT-based)
